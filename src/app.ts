@@ -996,3 +996,4 @@ item.getState().publish()
 item.getState().publish()   
 console.log(item.getState().publish())
 console.log(item.getState().name)
+c

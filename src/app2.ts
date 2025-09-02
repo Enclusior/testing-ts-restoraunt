@@ -53,5 +53,4 @@ class PublishedState extends DocumentItemState {
 const item = new DocumentItem('Hello')
 item.getState().publish()
 item.getState().publish()   
-console.log(item.getState().publish())
 console.log(item.getState().name)
